@@ -1,7 +1,7 @@
 // 1. Import scanner class
 public class ReverseString {
     public static void main(String[] args) {
-        System.out.println("== REVERSE NAME GENERATOR==");
+        System.out.println("== REVERSE NAME GENERATOR ==");
         // 2. create scanner object
 
         // 3. ask user to enter a name
